@@ -30,6 +30,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Fulano convidou você para curtir a página tal"
         date = "15 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Youtube"
@@ -37,6 +38,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Os videos mais famosos do youtube"
         date = "13 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Instagram"
@@ -44,6 +46,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Olá Fulano, você pode ter dicas de como ter mais curtidas"
         date = "10 aug"
         stared = true
+        unread = true
     },
     email{
         user = "Facebook"
@@ -51,6 +54,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Fulano convidou você para curtir a página tal"
         date = "15 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Youtube"
@@ -58,6 +62,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Os videos mais famosos do youtube"
         date = "13 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Instagram"
@@ -65,6 +70,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Olá Fulano, você pode ter dicas de como ter mais curtidas"
         date = "10 aug"
         stared = true
+        unread = true
     },
     email{
         user = "Facebook"
@@ -72,6 +78,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Fulano convidou você para curtir a página tal"
         date = "15 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Youtube"
@@ -79,6 +86,7 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Os videos mais famosos do youtube"
         date = "13 aug"
         stared = false
+        unread = false
     },
     email{
         user = "Instagram"
@@ -86,5 +94,6 @@ fun fakeEmails():MutableList<Email> = mutableListOf(
         preview = "Olá Fulano, você pode ter dicas de como ter mais curtidas"
         date = "10 aug"
         stared = true
+        unread = true
     }
 )
